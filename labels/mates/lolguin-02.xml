@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7570</folder>
+	<filename>lolguin-02.jpeg</filename>
+	<path>C:\Personal\7570\lolguin-02.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>584</ymin>
+			<xmax>389</xmax>
+			<ymax>958</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Fotos mates</folder>
+	<filename>mamarkosich-01.jpeg</filename>
+	<path>/Users/mariaagustinamarkosich/Documents/Facultad/Robots/Fotos mates/mamarkosich-01.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>536</ymin>
+			<xmax>522</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>296</ymin>
+			<xmax>565</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>calabaza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>531</ymin>
+			<xmax>526</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

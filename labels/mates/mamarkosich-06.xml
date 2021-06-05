@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fotos mates</folder>
+	<filename>mamarkosich-06.jpeg</filename>
+	<path>/Users/mariaagustinamarkosich/Documents/Facultad/Robots/Fotos mates/mamarkosich-06.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>2</ymin>
+			<xmax>782</xmax>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+</annotation>
